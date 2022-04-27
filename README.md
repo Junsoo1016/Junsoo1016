@@ -1,5 +1,4 @@
-
-
+<h1>Hi, I'm Junsoo Park.
 
 <h2> My tech stack </h2>
 
