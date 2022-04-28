@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-46a2f1?style=for-the-badge&logo=python&logoColor=ffffff)
 
 const JunsooPark = {
-  countryOfOrigin : South Korea
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Docker],
-  hobbies: [travel, movies, playing tennis, playing soccer]
+  <br> countryOfOrigin : South Korea
+  <br> code: [Javascript, Typescript, HTML, CSS, Python],
+  <br> tools: [React, Node, Docker],
+  <br> hobbies: [travel, movies, playing tennis, playing soccer]
