@@ -10,3 +10,9 @@
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-46a2f1?style=for-the-badge&logo=python&logoColor=ffffff)
+
+const JunsooPark = {
+  countryOfOrigin : South Korea
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Node, Docker],
+  hobbies: [travel, movies, playing tennis, playing soccer]
